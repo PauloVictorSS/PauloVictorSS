@@ -1,14 +1,15 @@
-## Olá :wave:, meu nome é Paulo Victor
+## Hi :wave:, my name is Paulo Victor
 
-### Sou estudante de TI e estudo desenvolvimento web
+### I'm a IT student and I study web development
 
-Gosto bastante da área de tecnologia e desenvolvo aplicações web de diversos tipos
+I really like the technology area and develop web applications of different types
 
-Trabalho com:
+I study and work with:
+
 - HTML5
 - CSS3
 - JavaScript
 - PHP
 - SQL
 
-**Também tenho [Linkedin](https://www.linkedin.com/in/paulo-victor-santos/)**
+**I also have [Linkedin](https://www.linkedin.com/in/paulo-victor-santos/)**
