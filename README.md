@@ -1,6 +1,6 @@
 ## Olá :wave:, meu nome é Paulo Victor
 
-### Estou no 3º ano do Ensino médio junto com o Técnico em Informática e também estudo desenvolvimento web
+### Sou formado em Técnico em Informática pelo IFSP e estudo desenvolvimento web
 
 Adoro a área de tecnologia e principalmente a área de desenvolvimento web. Desenvolvo diferentes tipos de aplicativos web
 
