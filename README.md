@@ -7,7 +7,7 @@ Dentre as tecnologias que eu estudo e uso:
 
 - HTML5 e CSS3
 - JavaScript
-- React
+- React JS
 - PHP
 - SQL
 - Firebase
