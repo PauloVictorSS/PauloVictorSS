@@ -1,15 +1,7 @@
-## Olá :wave:, meu nome é Paulo Victor
+## Paulo Victor
 
-### Sou formado em Técnico em Informática pelo IFSP e estudo Ciências da Computação na UNICAMP
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-victor-santos/)](https://www.linkedin.com/in/paulo-victor-santos/) 
 
-Adoro a área de tecnologia e principalmente a área de desenvolvimento web. Desenvolvo diferentes tipos de aplicativos.
-Dentre as tecnologias que eu estudo e uso:
+Estusiasta da área de tecnologia e principalmente a no desenvolvimento web. 
 
-- HTML5 e CSS3
-- JavaScript
-- React JS
-- PHP
-- SQL
-- Firebase
-
-**Eu também tenho [Linkedin](https://www.linkedin.com/in/paulo-victor-santos/)**
+Sou formado em técnico em informática e curso ciência da Computação na UNICAMP. Programo desde 2018 e hoje tenho foco estudando o back-end das aplicações web
