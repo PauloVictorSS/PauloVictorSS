@@ -5,4 +5,12 @@
 
 Estusiasta da área de tecnologia e principalmente no desenvolvimento web. 
 
-Sou formado em técnico em informática e curso ciência da Computação na UNICAMP. Programo desde 2018 e hoje tenho foco estudando o back-end das aplicações web.
+Sou formado em técnico em informática e curso ciência da Computação na UNICAMP. Programo desde 2018 e hoje tenho foco estudando o back-end das aplicações web. 
+Hoje estudo e faço projetos usando principalmente:
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- React.js
+- SQL
+- Firebase
