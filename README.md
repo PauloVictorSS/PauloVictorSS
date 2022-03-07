@@ -11,6 +11,3 @@ Hoje estudo e faço projetos usando principalmente:
 - CSS
 - JavaScript
 - Node.js
-- React.js
-- SQL
-- Firebase
